@@ -209,7 +209,7 @@ After completing all TODOs, test your calculator:
   Expected output: Result: 2
 
   node calculator.js invalid 1 2 3
-  Expected output: Invalid operation. Use: add, subtract, multiply, or divide
+  Expected oput: Invalid operation. Use: add, subtract, multiply, or divide
 
 */
 
