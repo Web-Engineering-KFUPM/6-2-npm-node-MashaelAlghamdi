@@ -216,3 +216,5 @@ After completing all TODOs, test your calculator:
   Expected oput: Invalid operation. Use: add, subtract, multiply, or divide
 
 */
+const operation = process.argv[2];
+const numbers = process.argv.slice(3);
